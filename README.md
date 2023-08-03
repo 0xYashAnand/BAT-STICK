@@ -1,7 +1,8 @@
 ## BAT-STICK: A Smart Device for Visually Impaired Individuals
 
 
-BAT-STICK is an innovative device designed to assist individuals with visual impairments in navigating their surroundings with increased safety and independence. Leveraging Internet of Things (IoT) technology, this device aims to enhance the lives of visually impaired people by providing them with real-time information about their environment and enabling communication during emergencies. It was developed as part of the Debug Army team and won the first prize in the prestigious Hack-o-Futurista Hackathon, held during Tantrafiesta, Techfest of IIIT Nagpur.
+BAT-STICK is an innovative device designed to assist individuals with visual impairments in navigating their surroundings with increased safety and independence. Leveraging Internet of Things (IoT) technology, this device aims to enhance the lives of visually impaired people by providing them with real-time information about their environment and enabling communication during emergencies. It was developed as part of the Debug Army team and won the first prize in the prestigious [Hack-o-Futurista](https://unstop.com/competitions/hack-o-futurista-tantrafiesta-2021-indian-institute-of-information-technology-iiit-nagpur-223255)
+ Hackathon, held during Tantrafiesta, Techfest of IIIT Nagpur.
 
 ### Project Demo:
 
@@ -29,7 +30,7 @@ BAT-STICK is an innovative device designed to assist individuals with visual imp
 
 ### Hackathon Achievement:
 
-We are proud to announce that BAT-STICK secured the first prize in the Hack-o-Futurista, a prestigious Hackathon organized during Tantrafiesta, the Techfest of IIIT Nagpur. Our team's dedication and innovative approach in developing BAT-STICK were recognized and rewarded by the esteemed judges.
+We are proud to announce that BAT-STICK secured the first prize in the [Hack-o-Futurista](https://unstop.com/competitions/hack-o-futurista-tantrafiesta-2021-indian-institute-of-information-technology-iiit-nagpur-223255), a prestigious Hackathon organized during Tantrafiesta, the Techfest of IIIT Nagpur. Our team's dedication and innovative approach in developing BAT-STICK were recognized and rewarded by the esteemed judges.
 
 **Contributors:**
 - Yash Anand [0xYashAnand](https://github.com/0xYashAnand)
