@@ -36,7 +36,7 @@ We are proud to announce that BAT-STICK secured the first prize in the [Hack-o-F
 - Yash Anand [0xYashAnand](https://github.com/0xYashAnand)
 - Asmit Raj [ASMIT205](https://github.com/ASMIT205)
 - Mohit Anand [ANANDMOHIT209](https://github.com/ANANDMOHIT209)
-- Swarit Patel [SwaritPatel](https://github.com/)
+- Swarit Patel [SwaritPatel](https://github.com/SwaritPatel)
 
 
 
